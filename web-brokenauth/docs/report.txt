@@ -1,0 +1,23 @@
+1. Why would one chose Firefox over other web browser used?
+
+2. Why set up a proxy?
+
+3. What is path traversal and how can it be exploited?
+
+4. Fill out the chart in task 4.6.
+
+5. What type of hashing was used?
+
+6. Fill out the chart in task 4.7.
+
+7. What were the total number of users found?
+
+8. Why is using GET to push passwords a security risk?
+
+9. Why is verification that users are deleted an issue when it comes to GDPR and data retention? 
+
+10. Why is dual factor authentication important in todays world if it can be bypassed?
+
+11. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+12. Journal Output review

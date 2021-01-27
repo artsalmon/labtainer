@@ -1,0 +1,1 @@
+This Labtainer exercise explores broken authentication mechanism. This lab covers how to reset password using a GET request, how to bypass multifactor authentication, and how decode session tokens.

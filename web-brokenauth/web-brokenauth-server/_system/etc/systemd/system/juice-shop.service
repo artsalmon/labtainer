@@ -1,0 +1,9 @@
+[Service]
+Type=simple
+WorkingDirectory=/juice-shop_11.1.2
+Environment=NODE_ENV=temp
+ExecStart=/usr/bin/node app.js
+
+[Install]
+WantedBy=multi-user.target
+Alias=juice-shop
