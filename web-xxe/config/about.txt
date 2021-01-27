@@ -1,0 +1,1 @@
+This Labtainer exercise explore XML External Entity attack. An XML External Entity attack is a type of attack against an application that parses XML input.

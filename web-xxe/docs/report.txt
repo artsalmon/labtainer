@@ -1,0 +1,20 @@
+
+1. Why Firefox might have been chosen to be the web browser used.
+
+2. Why set up a proxy.
+
+3. Does OWASP ZAP check for vulnerabilities in each page you visit?
+
+4. Did evil1.xml and evil2.xml produce the same result?
+
+5. Write the code you would need to display the “displayfile”
+
+6. If you could read data from any file located in the web server?
+
+7. What are the details of how an SSRF attack is conducted.
+
+8. Discuss how a DTD external based attack or reference has impact on a web server.
+
+9. Review the report from zap and list at three items of interest relating directly with XXE exploits. 
+
+10. Journal Output review
