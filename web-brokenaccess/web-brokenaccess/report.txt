@@ -1,0 +1,24 @@
+1. Why Firefox might have been chosen to be the web browser used. Could Chrome or another web browser have been selected? What are some of the development tools that differ between the main web browsers?
+
+2. Why should a proxy be set up?
+
+3. How should a web server handle access to a administrative page? 
+
+4. Why is the ability to capture a user and in transit modify the request so that they are granted administrative access a bad thing?
+
+5. What are the users registered on the site? What are there names and what is the total count? 
+
+6. Fill out the chat and save it to your report.
+
+7. What are the main difference between user bypass and password cracking?
+
+8. How can forging feedback by a different user be prevented? 
+
+9. Are all hashes created equally? Are there one set of hashes that are harder to break?
+
+10. What is salting when it comes to password hashing?
+
+11. What is OAuth and should third parties be allowed to authenticate users? 
+
+12. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+

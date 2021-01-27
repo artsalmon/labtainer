@@ -1,0 +1,1 @@
+This Labtainer exercise explores Broken access control. Broken access control happens when the application allows a user to perform unauthorized actions.
