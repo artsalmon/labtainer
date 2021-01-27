@@ -1,0 +1,29 @@
+1. Would you expect the same results of this lab if you were using any of the common web browser (Chrome, Firefox, Internet Explorer, Edge)? Why? If necessary, do a quick search on the differences between how the different browsers handle xss differently. 
+
+2. Why is zap being used to as a proxy to record interaction between the student workstation and the vulnerable web server? 
+
+3. Looking at OWASP ZAP, as you navigate different pages, does OWASP ZAP scan each page you visit? Does it find any vulnerabilities? How do you know?
+
+4. Why the different types of reflected exploit examples
+
+5. Where were the vulnerabilities found, and what page and what data input area were found to be exploitable?
+
+6. Why are the different types of stored exploit examples?
+
+7. Where were the vulnerabilities found, and what page and what data input area were found to be exploitable?
+
+8. why is restricting file upload important for security? 
+
+9. Discuss any finding you had after you have successfully uploaded and viewed each of the required files.
+
+10. What is the session cookie identified in task 4.10?
+
+11. Explain why it was important to mask the sending of a cookie to the attacker machine using a img tag?
+
+12. After how many tries did the echo server on the attacker machine receive the session cooking from the victim?
+
+13. Discuss how session hijacking can be mitigated or reduced as an active threat.
+
+14. find three areas of the OWASPZAP report that you thought was interesting or that you thought showed the highest risk. Explain why they were important and discuss how they may have an impact on the security of the web site.
+
+15. Journal Output review

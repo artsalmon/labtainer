@@ -1,0 +1,1 @@
+This Labtainer exercise explores Cross-site scripting (XSS). XSS is a type of vulnerability commonly found in web applications.

