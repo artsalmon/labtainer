@@ -1,0 +1,21 @@
+1. Why would one chose Firefox over other web browser used?
+
+2. Why set up a proxy.
+
+3. How should an administrative page be protected? 
+
+4. Why is error handling and error reporting a critical step when it comes to security of a web server?
+
+5. Why s removing old remnants of a website crucial to protecting a new site? 
+
+6. How would web server administrator protect features that are paid for?
+
+7. What is the loss if paid features are able to be exploited for free?
+
+8. What is account impersonation?
+
+9. Why does the dash dash method allow f or users to log in without having a proper password?
+
+10. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+11. Journal Output review

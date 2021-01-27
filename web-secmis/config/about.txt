@@ -1,0 +1,1 @@
+This Labtainer exercise explores Security misconfigurations. As the name suggests, expose vulnerabilities due to weak configurations of an IT asset.
