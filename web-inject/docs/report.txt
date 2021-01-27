@@ -1,0 +1,31 @@
+1. Why Firefox might have been chosen to be the web browser used. Could Chrome or another web browser have been selected? What are some of the development tools that differ between the main web browsers?
+
+2. Why should a proxy be set up?
+
+3. Why is allowing HTTP Put to write to a web site a bad idea?
+
+4. What is the main purpose of a HTTP Put request? 
+
+5. What are the prices for products 1, 3, and 24? 
+
+6. What does the following snip it of HTTP code represent without the double quotes “?q=’))—"
+
+7. Why does 1=1 equate to an injection violation?
+
+8. What is the main purpose of a captcha?
+
+9. In terms of web technology what defines REST and JSON?
+
+10. How might a web based attack be prevented?
+
+11. Define what a NoSQL based attack is and how the differ from a traditional SQL based attack.
+
+12. Which type of an attack is becoming more predominate?
+
+13. Why are there so many NULLs needed in example 1, bullet point 3?
+
+14. Why is knowing table structure critical for conducting insert or update statements using SQL?
+
+15. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+16. Journal Output review

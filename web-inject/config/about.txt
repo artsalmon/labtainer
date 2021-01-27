@@ -1,0 +1,1 @@
+This Labtainer exercise explores injections. This lab covers SQL/NoSQL injections along with Web based injections using PUT/POST/PATCH.
