@@ -1,0 +1,19 @@
+﻿1. Why would one chose Firefox over other web browser used?
+
+2. Why set up a proxy?
+
+3. How should an administrative page be protected? 
+
+4. Why would someone want to gain access to access logs of a server? 
+
+5. Are XXE exploits still common? How can they be prevented?
+
+6. Why is allowing a PUT request from external sources a bad idea?
+
+7. Why is “1=1” a common SQL injection exploit?
+
+8. Why is path transversal such an issue on web server? 
+
+9. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+10. Journal Output review

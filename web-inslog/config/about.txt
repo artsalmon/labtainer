@@ -1,0 +1,1 @@
+This Labtainer exercise explores Insufficient logging and monitoring. When a hacker infiltrates a network, IT systems will generate traffic which usually doesn’t correspond to the normal one, unless you are dealing with highly skilled hackers who have time and money to go after your IT infrastructure.
