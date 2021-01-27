@@ -1,0 +1,1 @@
+This Labtainer exercise explores using components with known vulnerabilities. You might have totally secured your own code, but what about the dependencies you are using?

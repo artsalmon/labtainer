@@ -1,0 +1,25 @@
+1. Why would one chose Firefox over other web browser used?
+
+2. Why set up a proxy.
+
+3. how should an administrative page be protected? 
+
+4. what is typosquating? 
+
+5. what are decencies and how do they differ from packages used in supporting a web service?
+
+6. what is a library when it comes to web services? 
+
+7.how does a library become vulnerable? 
+
+8. what is a supply chain attack?
+
+9. how would one prevent a token from being forged?
+
+10. how does a session token differ from session cookies?
+
+11. what is a ZIP based attack?
+
+12. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+13. Journal Output review
