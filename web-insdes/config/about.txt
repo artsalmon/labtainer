@@ -1,0 +1,1 @@
+This Labtainer exercise explores Insecure deserialization. Insecure deserialization happens when the developer doesn’t check serialized data that a user sends to the application.

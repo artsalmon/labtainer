@@ -1,0 +1,19 @@
+1. Why would one chose Firefox over other web browser used?
+
+2. Why set up a proxy?
+
+3. how should an administrative page be protected? 
+
+4. What are the main difference between a secure JSON and a insecure JSON?
+
+5. Why are Regular Expression tests costly to a server? 
+
+6. What is Regular Expression and how can it be used to attack a web server? 
+
+7. Why would someone purposely put malware on there own web server? 
+
+8. Why are there repositories of malware on storage sites such as Github?
+
+9. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+10. Journal Output review
