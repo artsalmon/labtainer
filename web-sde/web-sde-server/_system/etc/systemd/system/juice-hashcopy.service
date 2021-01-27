@@ -1,0 +1,8 @@
+[Service]
+Type=simple
+ExecStart=/sde_configuration.sh
+
+[Install]
+WantedBy=multi-user.target
+Alias=juice-hashcopy
+

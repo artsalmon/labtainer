@@ -1,0 +1,1 @@
+This Labtainer exercise explores the disclosure of data, which is not meant to be publicly accessible, this is known as sensitive data exposure (SDE).

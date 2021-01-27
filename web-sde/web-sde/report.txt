@@ -1,0 +1,27 @@
+1. Why Firefox might have been chosen to be the web browser used. Could Chrome or another web browser have been selected? What are some of the development tools that differ between the main web browsers?
+
+2. Why should a proxy be set up?
+
+3. How would one typically restrict access to an administrative portion of a web site? 
+
+4. Why are path traversal an issue? Can OS common be injected if the directory path can reach the root of a storage drive? 
+
+5. Why are saving passwords on in a publicly accessible directory a bad thing?
+ 
+6. What if the passwords are hashed, does that make a difference?
+
+7. Why is gaining access to support logs an issue?
+
+8. What is the purpose of a metric directory? Why is usage data of interest for someone trying to break a web server?
+
+9. If a backup file is accessible, can someone take it and start a recovery from the backup files? 
+
+10. Why does opening the error.yml file above directly not work? Why is the %2500 needed?
+
+11. What is the purpose of Exif metatags? 
+
+12. Why is being able to access a .stl file an issue?
+
+13. Report any interesting finding of the report. Find three areas of interest and explain why they were important and how they may have an impact on the security of this website.
+
+14. Journal Output review
